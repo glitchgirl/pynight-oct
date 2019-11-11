@@ -1,5 +1,5 @@
 #given a list of numbers, get the mean,
-,
+
 numbers = [35 ,
 4 ,
 -111 ,
